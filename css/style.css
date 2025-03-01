@@ -133,10 +133,10 @@ a {
 }
 
 .mob-img {
-    width: 500px;
+    max-width: 500px;
     float: right;
     margin-top: 20px;
-    height: 500px;
+    max-height: 500px;
     margin-left: 10px;
 }
 
